@@ -26,3 +26,16 @@ You can check out the [create-t3-app GitHub repository](https://github.com/t3-os
 ## How do I deploy this?
 
 Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
+
+## Initial setup:
+
+- `npx create-t3-app@latest`
+- npm install:
+- `jest`
+- `babel-jest`
+- `@testing-library/react`
+- `@testing-library/jest-dom`
+- `identity-obj-proxy`
+- `react-test-renderer`
+- `jest-environment-jsdom`
+- `--save-dev`
