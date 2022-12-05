@@ -39,3 +39,5 @@ Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/ver
 - `react-test-renderer`
 - `jest-environment-jsdom`
 - `--save-dev`
+
+- `.eslintignore`
